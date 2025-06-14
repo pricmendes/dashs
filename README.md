@@ -1,7 +1,9 @@
 # Dashboards e Business Intelligence
 
 ## 📜 Descrição Geral
-Bem-vindo(a) ao meu portfólio de projetos de Business Intelligence (BI) e Análise de Dados. Aqui você encontrará dashboards interativos, desenvolvidos em Excel e Microsoft Power BI, que transformam dados brutos e complexos em insights visuais e claros, apoiando a tomada de decisão estratégica nos negócios.
+Dashboards interativos, demonstrando soluções que vão desde análises em **Excel** e **Power BI** até plataformas de dados na nuvem com **Looker Studio**, **Snowflake** e **dbt**.
+
+O objetivo é transformar dados complexos em insights visuais e claros, apoiando a tomada de decisão estratégica nos negócios.
 
 ---
 
@@ -16,25 +18,30 @@ A solução proposta é a criação de painéis que centralizam as informações
 ---
 
 ## 🚀 Projetos em Destaque
-Neste repositório, apresento soluções de BI em duas das plataformas mais poderosas e utilizadas no mercado. Explore cada projeto em sua respectiva branch:
+Neste repositório, apresento soluções de BI em diferentes plataformas e ecossistemas. Explore cada projeto em sua respectiva branch para ver os detalhes técnicos e os painéis interativos.
 
-### 📊 Dashboard de Análise de Vendas (Excel)
-Um dashboard completo e interativo construído diretamente no Microsoft Excel, utilizando recursos avançados como Power Query e Tabelas Dinâmicas. É a solução ideal para empresas que desejam extrair mais valor de uma ferramenta que já faz parte do seu dia a dia.
+### 📊 Análises e Dashboards em Excel
+Um projeto focado em extrair o máximo de valor do Microsoft Excel. Demonstra a construção de um dashboard de vendas completo e interativo, utilizando recursos avançados como Power Query e Tabelas Dinâmicas. É a solução ideal para empresas que desejam potencializar uma ferramenta que já faz parte do seu dia a dia.
 - **[Ver o projeto detalhado em Excel &rarr;](https://github.com/pricmendes/dashs/tree/excel)**
 
-### 📈 Dashboard de Performance de RH (Power BI)
-Um painel de BI moderno utilizando a plataforma líder de mercado da Microsoft, o Power BI. Permite a análise profunda de métricas, com a capacidade de partilha online segura e atualização automática dos dados a partir de diversas fontes.
-- **[Ver o projeto detalhado em Power BI &rarr;](https://github.com/pricmendes/dashs/tree/PBI)**
+### ☁️ Dashboards em Power BI e Looker Studio
+Esta seção contém projetos desenvolvidos nas plataformas de BI líderes de mercado, demonstrando tanto análises departamentais (como o painel de RH em Power BI) quanto soluções de dados na nuvem (como o dashboard de concessionárias no Looker Studio, conectado ao Snowflake).
+- **[Ver os projetos detalhados &rarr;](https://github.com/pricmendes/dashs/tree/PBI)**
 
 ---
 
 ## 🛠️ Tecnologias Utilizadas
-- Microsoft **Excel**
-  - **Power Query** (Get & Transform)
-  - **Tabelas Dinâmicas** (Pivot Tables)
-- Microsoft **Power BI**
+- **Plataformas de Visualização:**
+  - Microsoft **Power BI**
+  - Google **Looker Studio**
+  - Microsoft **Excel** (com Power Query e Tabelas Dinâmicas)
+- **Cloud Data Stack:**
+  - **Snowflake** (Cloud Data Warehouse)
+  - **dbt** (Data Build Tool para transformações de dados)
+- **Conceitos Fundamentais:**
+  - **ETL** (Extract, Transform, Load)
+  - **Modelagem de Dados**
   - **DAX** (Data Analysis Expressions)
-- Conceitos de **ETL** (Extract, Transform, Load) e **Modelagem de Dados**
 
 ---
 
