@@ -18,7 +18,7 @@ Este painel, desenvolvido no Google Looker Studio conectado ao Snowflake e trans
 
 **📸 Demonstração Visual:**
 <a href="https://raw.githubusercontent.com/pricmendes/dashs/refs/heads/PBI/concessionarias/DASHLOOKER.jpg">
-  <img src="https://raw.githubusercontent.com/pricmendes/dashs/refs/heads/PBI/concessionarias/DASHLOOKER.jpg" alt="Dashboard de Concessionárias no Looker Studio" width="600">
+  <img src="https://raw.githubusercontent.com/pricmendes/dashs/refs/heads/PBI/concessionarias/DASHLOOKER.jpg" alt="Dashboard de Concessionárias no Looker Studio" width="100">
 </a>
 
 *💡 Clique na imagem para ampliar.*
