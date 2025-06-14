@@ -1,36 +1,47 @@
 [⬅️ Voltar para o Portfólio Principal](https://pricmendes.github.io/dashs/)
 
-# 📈 Dashboard de Performance de RH (Power BI)
+# 📊 Portfólio de Dashboards e Business Intelligence
 
-## 📜 Descrição do Projeto
-Este projeto apresenta um painel de BI moderno construído com a plataforma líder de mercado da Microsoft, o Power BI. A solução permite a análise profunda de métricas de Recursos Humanos, com a capacidade de partilha online segura, atualização automática dos dados e cálculos avançados com DAX, oferecendo uma visão 360º da performance do setor.
+## 📜 Descrição
+Esta página reúne uma coleção de dashboards interativos que demonstram a aplicação de diferentes ferramentas e técnicas para transformar dados brutos em insights visuais e acionáveis.
 
----
-
-## 💡 Funcionalidades e Análises Apresentadas
-- **Análise de KPIs de RH:** Monitorização de Indicadores Chave como taxa de rotatividade (turnover), contagem de funcionários (headcount) e satisfação.
-- **Visualizações de Dados Interativas:** Gráficos dinâmicos que se atualizam com base nas seleções do utilizador.
-- **Filtros Dinâmicos e Drill-down:** Permitem analisar a informação por departamento, cargo e período com apenas um clique.
-- **Tratamento e Limpeza de Dados (ETL):** Utilização do Power Query para importar, limpar e transformar dados de diversas fontes.
-- **Modelagem de Dados e Relacionamentos:** Criação de um modelo de dados coeso para garantir que todas as análises e cálculos estão corretos.
-- **Cálculos Avançados com Fórmulas DAX:** Criação de métricas personalizadas e complexas para uma análise mais profunda do negócio.
+Cada seção abaixo detalha um projeto específico, desde a análise de vendas até a performance de setores.
 
 ---
 
-## 📸 Demonstração Visual do Dashboard
+## 🚀 Projetos
 
-<a href="https://raw.githubusercontent.com/pricmendes/dashs/PBI/assets/dashboard-pbi.png">
-  <img src="https://raw.githubusercontent.com/pricmendes/dashs/PBI/assets/dashboard-pbi.png" alt="Dashboard em Power BI" width="600">
+---
+
+### 📈 Dashboard de Análise de Concessionárias (Looker Studio)
+Este painel, desenvolvido no Google Looker Studio conectado ao Snowflake e transformação de dados com DBT, analisa a performance de vendas de uma rede de concessionárias. O objetivo é fornecer uma visão clara sobre o faturamento total, a quantidade de vendas, e identificar os estados e as lojas com melhores resultados, permitindo uma tomada de decisão mais estratégica.
+
+**📸 Demonstração Visual:**
+<a href="https://raw.githubusercontent.com/pricmendes/dashs/refs/heads/PBI/concessionarias/DASHLOOKER.jpg">
+  <img src="https://raw.githubusercontent.com/pricmendes/dashs/refs/heads/PBI/concessionarias/DASHLOOKER.jpg" alt="Dashboard de Concessionárias no Looker Studio" width="600">
 </a>
 
-*💡 Clique na imagem para ampliar e ver em detalhe.*
+*💡 Clique na imagem para ampliar.*
+
+**🔗 Link para o Dashboard:**
+- **[Acessar o Dashboard Interativo &rarr;](https://lookerstudio.google.com/reporting/3bcce773-141f-406d-b19d-d00c90e684c8)**
+
+**💡 Funcionalidades e Análises:**
+- **KPIs Principais:** Monitorização do faturamento total e da quantidade de vendas.
+- **Rankings de Performance:** Classificação do TOP 1 Estado (UF) e do TOP 5 de concessionárias com maior volume de vendas.
+- **Análise Geográfica:** Mapa de vendas interativo para visualização da distribuição de faturamento pelo Brasil.
+- **Filtros Dinâmicos:** Permite filtrar os dados por Estado e Concessionária para análises específicas.
+
+---
 
 ---
 
 ## 🛠️ Tecnologias Utilizadas
-- Microsoft **Power BI**
-  - **Power Query** (Editor do Power BI)
-  - **DAX** (Data Analysis Expressions)
+Neste portfólio, foram utilizadas as seguintes ferramentas e conceitos:
+
+- **Google Looker Studio**
+- **Snowflake**
+- **dbt (Data Build Tool)**
 - Conceitos de **ETL** (Extract, Transform, Load) e **Modelagem de Dados**
 
 ---
